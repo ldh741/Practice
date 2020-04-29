@@ -5,7 +5,7 @@ int main(void)
 {
 	return 0;
 }
-void Add(int Number)
+void Add(int Number)//wntjr
 {
 
 }
